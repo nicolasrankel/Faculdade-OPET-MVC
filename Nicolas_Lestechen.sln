@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicolas_Lestechen", "Nicolas_Lestechen\Nicolas_Lestechen.csproj", "{A00276A9-6FA7-40B7-A9E9-411E38781230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{83E3DB29-B0D9-455A-A18F-F31EF145B5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00276A9-6FA7-40B7-A9E9-411E38781230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00276A9-6FA7-40B7-A9E9-411E38781230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00276A9-6FA7-40B7-A9E9-411E38781230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00276A9-6FA7-40B7-A9E9-411E38781230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E3DB29-B0D9-455A-A18F-F31EF145B5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E3DB29-B0D9-455A-A18F-F31EF145B5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E3DB29-B0D9-455A-A18F-F31EF145B5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E3DB29-B0D9-455A-A18F-F31EF145B5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9FE66D-8E72-40CB-9481-541F417147C7}
+	EndGlobalSection
+EndGlobal
